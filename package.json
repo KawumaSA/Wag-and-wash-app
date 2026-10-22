@@ -1,0 +1,7 @@
+{
+  "name": "wag-and-wash",
+  "private": true,
+  "scripts": {
+    "check:frontend": "node scripts/check-inline-js.cjs"
+  }
+}

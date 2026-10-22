@@ -1,0 +1,5 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.34,<1
+supabase>=2.15,<3
+google-auth[requests]>=2.38,<3
+python-dotenv>=1,<2
